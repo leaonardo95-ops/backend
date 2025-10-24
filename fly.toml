@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for backend-teste on 2025-10-24T04:18:19Z
+# fly.toml app configuration file generated for backend-fcj-gg on 2025-10-24T04:28:40Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'backend-teste'
+app = 'backend-fcj-gg'
 primary_region = 'iad'
 
 [build]
