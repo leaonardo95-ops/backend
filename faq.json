@@ -1,0 +1,12 @@
+{
+  "perguntas": {
+    "1": "Quais faixas de renda são isentas?",
+    "2": "A isenção vale para todos os tipos de renda?",
+    "3": "Quem é MEI ou autônomo, também tem direito à isenção?"
+  },
+  "respostas": {
+    "1": "Rendas de até R$5.000,00 serão isentas.",
+    "2": "A proposta trata 'rendimentos' em termos gerais, então aplica-se a diferentes tipos de renda.",
+    "3": "Sim, a isenção vale também para rendimentos de MEI e autônomos."
+  }
+}
